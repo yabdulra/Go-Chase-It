@@ -38,3 +38,5 @@ This repo consists of two packages:
     $ roslaunch ball_chaser ball_chaser.launch
     ```
 Now that everything is set, pickup the white ball and place it within the field of view of the robot. The robot will follow the white ball.
+
+https://user-images.githubusercontent.com/61895971/180902896-4ab51830-9e53-4ad9-9793-05fe87f84c00.mp4
